@@ -1,4 +1,4 @@
 # haskell-kata
 
-Yatzy Kata
-Prime Factors Kata 
+- Yatzy Kata
+- Prime Factors Kata  
