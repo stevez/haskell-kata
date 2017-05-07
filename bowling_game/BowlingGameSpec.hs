@@ -29,3 +29,6 @@ main = hspec $ do
 
    it "perfect game but miss 2 short" $ do
        score "XXXXXXXXXX91" `shouldBe` 289
+
+   it "1/35XXX458/X3/23"  $ do
+       score "1/35XXX458/X3/23" `shouldBe` 160
