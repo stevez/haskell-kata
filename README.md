@@ -5,3 +5,4 @@
 - Bowling Game Kata 
 - Tennis Game
 - Poker Hands
+- Potter Kata
