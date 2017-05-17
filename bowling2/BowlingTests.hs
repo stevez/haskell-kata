@@ -1,6 +1,6 @@
 module BowlingTests where
 
-import BowlingGame
+import NewBowling
 
 import Test.Hspec
 import Test.QuickCheck
