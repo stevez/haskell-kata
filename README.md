@@ -6,3 +6,4 @@
 - Tennis Game
 - Poker Hands
 - Potter Kata
+- Bank OCR Kata
