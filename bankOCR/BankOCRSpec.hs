@@ -127,9 +127,6 @@ main = hspec $ do
      it "each of the first 3 lines only contains | or _" $ do
          isEntryValid entryHasEqualCharacter `shouldBe` False
 
-     it "each digit should be 0-9" $ do
-        isEntryValid entryIllegibleDigit `shouldBe` True
-
      it "should parse entry1 successfully" $ do
         parseEntry entry1 `shouldBe` Just "123456789"
         parseEntry entry_3_lines `shouldBe` Nothing
